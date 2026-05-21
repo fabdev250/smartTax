@@ -1,0 +1,17 @@
+{
+  "short_name": "SmartTax",
+  "name": "SmartTax Rwanda - Intelligent SME Tax Platform",
+  "description": "Rwanda-focused intelligent tax and business management platform for SMEs and government tax monitoring.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'><rect width='512' height='512' rx='120' fill='%230f172a'/><path d='M160 120h192v40H160zm0 80h192v40H160zm0 80h192v40H160zm0 80h120v40H160z' fill='white'/><circle cx='380' cy='360' r='50' fill='%2310b981'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f171e",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}
